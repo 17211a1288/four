@@ -19,6 +19,7 @@ public class Constructionhousecost {
 		long totalcost=(long)house.costofhouse();
 		System.out.println();
 		System.out.println("TOTAL COST FOR HOUSE CONSTRUCTION: Rs."+totalcost);
+		in.close();
 	}
 
 }
